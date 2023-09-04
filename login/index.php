@@ -26,16 +26,14 @@
             <div class="row">
                 <div class="col-12">
                     <div class="d-flex align-items-center min-vh-100">
-                        <div class="w-100 d-block bg-white shadow-lg rounded my-5">
+                        <div class="w-100 d-block bg-white shadow-lg rounded my-5"> 
                             <div class="row">
                                 <div class="col-lg-5 d-none d-lg-block rounded-left">
-
+                                 <img src="../images/logo.png" width="440px" height="365px" alt="">
                                 </div>
                                 <div class="col-lg-7">
                                     <div class="p-5">
-                                        <div class="text-center mb-5">
-                                           
-                                        </div>
+                                      
                                         <h1 class="h5 mb-1">Bienvenidos!</h1>
                                         <p class="text-muted mb-4">Ingrese su dirección de correo electrónico y contraseña para acceder al panel de administración.</p>
                                         <form class="user">
