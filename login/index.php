@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Xacton - Admin & Dashboard Template</title>
+    <title>Login - Sistema Ecommerce</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="MyraStudio" name="author" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    <link rel="shortcut icon" href="../images/logoo.png">
 
     <!-- App css -->
     <link href="../plantilla/Admin/vertical/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -29,12 +29,12 @@
                         <div class="w-100 d-block bg-white shadow-lg rounded my-5"> 
                             <div class="row">
                                 <div class="col-lg-5 d-none d-lg-block rounded-left">
-                                 <img src="../images/logo.png" width="440px" height="365px" alt="">
+                                 <img src="../images/canva.png" width="470px" height="465px" alt="">
                                 </div>
                                 <div class="col-lg-7">
-                                    <div class="p-5">
+                                    <div class="p-5 mb-5">
                                       
-                                        <h1 class="h5 mb-1">Bienvenidos!</h1>
+                                        <h1 class="text-center mb-5">BIENVENIDOS</h1>
                                         <p class="text-muted mb-4">Ingrese su dirección de correo electrónico y contraseña para acceder al panel de administración.</p>
                                         <form class="user">
                                             <div class="form-group">
